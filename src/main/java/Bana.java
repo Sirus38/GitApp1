@@ -8,5 +8,8 @@ public class Bana {
         //versiyon 2
         System.out.println("Hello Bera");
 
+        //versiyon 3
+        System.out.println("napiyorsun bera");
+
     }
 }
