@@ -5,5 +5,8 @@ public class Bana {
         System.out.println("ben kendimi cok seviyorum");
         System.out.println("bana bi muz al");
 
+        //versiyon 2
+        System.out.println("Hello Bera");
+
     }
 }
